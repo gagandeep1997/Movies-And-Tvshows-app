@@ -1,0 +1,14 @@
+.searchContainer {
+    display: flex;
+    margin: 15px 0;
+}
+
+#filled-basic {
+    color: white;
+}
+
+.search {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
