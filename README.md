@@ -1,5 +1,5 @@
 # Movies and Tv Shows App
-A movies and tv shows app which fetches data from the api and shows trending movies and tv shows, any movie, any tv show and the user can search any movie or tv show.
+A movies and tv shows app which fetches data from the api and displays information trending movies and tv shows, any movie, any tv show and the user can search any movie or tv show.
 
 <b>Tech Stack</b>
 1. React
